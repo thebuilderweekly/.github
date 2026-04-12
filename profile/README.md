@@ -32,6 +32,6 @@ Both repositories are licensed under [CC BY 4.0](https://creativecommons.org/lic
 
 <div align="center">
 
-Maintained by [@govindkavaturi](https://github.com/govindkavaturi) and [@mikemolinet](https://github.com/mikemolinet).
+Maintained by [@govindkavaturi-art](https://github.com/govindkavaturi-art) and [@mikemolinet](https://github.com/mikemolinet).
 
 </div>
