@@ -27,7 +27,7 @@ A publication for people building with AI agents.
 | Repository | What it gives you |
 |---|---|
 | [the-agent-index](https://github.com/thebuilderweekly/the-agent-index) | A vetted shortlist of agent-callable tools. Stop wasting hours evaluating things that need a sales call to use. |
-| [tutorials](https://github.com/thebuilderweekly/tutorials) | Working code for specific agent capabilities. Clone, run, adapt. |
+| [ai-building-tutorials](https://github.com/thebuilderweekly/ai-building-tutorials) | Working code for specific agent capabilities. Clone, run, adapt. |
 
 Both projects accept community contributions through pull requests. Each repo's `CONTRIBUTING.md` explains the bar.
 
