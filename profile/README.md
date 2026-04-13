@@ -4,7 +4,7 @@
 
 Open-source resources for people building with AI agents.
 
-[![Read the publication](https://img.shields.io/badge/Publication-thebuilderweekly.com-FFC700?style=for-the-badge)](https://thebuilderweekly.com)
+![publication](https://img.shields.io/badge/publication-grey) [![thebuilderweekly.com](https://img.shields.io/badge/THEBUILDERWEEKLY.COM-FFC700?style=flat&labelColor=FFC700)](https://thebuilderweekly.com)
 
 </div>
 
@@ -12,7 +12,7 @@ Open-source resources for people building with AI agents.
 
 ## What's in this org
 
-Two open-source projects.
+Three open-source projects.
 
 ### [the-agent-index](https://github.com/thebuilderweekly/the-agent-index)
 
@@ -22,16 +22,12 @@ A vetted list of tools an AI agent can call end-to-end. The bar is strict — if
 
 Working code for specific AI agent capabilities. Each tutorial shows you the build, the failure mode you'll hit if you skip the verification layer, and the fix.
 
-Both projects accept community contributions through pull requests. Each repo's `CONTRIBUTING.md` explains the contribution rules.
+### [ai-building-articles](https://github.com/thebuilderweekly/ai-building-articles)
+
+Foundation articles on AI building, AI economics, and trust in AI systems. Each article is a canonical reference maintained by The Builder Weekly editors with autonomous review by [@tbw-ai](https://github.com/tbw-ai).
+
+All three projects accept community contributions through pull requests. Each repo's `CONTRIBUTING.md` explains the contribution rules.
 
 ## License
 
-Both repositories are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Fork freely, attribute always.
-
----
-
-<div align="center">
-
-Maintained by [@govindkavaturi-art](https://github.com/govindkavaturi-art) and [@mikemolinet](https://github.com/mikemolinet).
-
-</div>
+All three repositories are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Fork freely, attribute always.
